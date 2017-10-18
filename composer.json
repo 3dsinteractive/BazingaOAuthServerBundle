@@ -1,5 +1,5 @@
 {
-    "name": "willdurand/oauth-server-bundle",
+    "name": "3dsinteractive/oauth-server-bundle",
     "description": "Server side implementation of the OAuth 1.0 protocol based on RFC 5849",
     "keywords": ["api", "server", "oauth"],
     "type": "symfony-bundle",
